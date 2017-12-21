@@ -1,0 +1,4 @@
+server=203.234.100.101
+port=9000
+id=guest
+pwd=guest

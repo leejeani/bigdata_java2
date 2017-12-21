@@ -1,0 +1,5 @@
+#Person Information
+#Fri Aug 04 11:27:36 KST 2017
+age=30
+name=\uC774\uB9D0\uC219
+id=id01
